@@ -33,7 +33,7 @@ CMD
 
 ## Authors
 
-* **Abhay Parashar
+* Abhayparashar31
 
 ## License
 
