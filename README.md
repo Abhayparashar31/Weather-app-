@@ -1,6 +1,25 @@
-# Weather App Using python
+<br />
+<p align="center">
+  <a href="https://github.com/github_Abhayparashar/Weather-app-">
+    <img src="images/profile.png" alt="Logo" width="80" height="80">
+  </a>
 
-It is a weather app created using python. in this the data of weather scrape using bs4 direct from google...
+  <h3 align="center"> Weather App Using python</h3>
+
+  <p align="center">
+   It is a weather app created using python. in this the data of weather scrape using bs4 direct from google...
+    <br />
+    <a href="https://github.com/Abhayparashar31/Weather-app-/"><strong>Explore the Project »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.youtube.com/watch?v=rj2akAtyUpg">ViewDemo</a>
+    ·
+    <a>Report Bug :: parasharabhay13@gmail.com</a>
+    
+  </p>
+</p>
+
+
 
 
 ### Prerequisites
@@ -26,7 +45,11 @@ pip install BeautifulSoup
 ## EXPLANATION
 
 For full explanation visit 
+```
+https://www.youtube.com/watch?v=rj2akAtyUpg
 
+https://www.projects-and-hacks.xyz/2020/07/weather-app-using-python10-lines.html
+```
 ## Deployment
 
 CMD
