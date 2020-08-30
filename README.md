@@ -7,7 +7,7 @@
   <h3 align="center"> Weather App Using python</h3>
 
   <p align="center">
-   It is a weather app created using python. in this the data of weather scrape using bs4 direct from google...
+   It is a weather app created using python. in this the data of weather scrape using bs4 direct from google and then it is send as an desktop notification...
     <br />
     <a href="https://github.com/Abhayparashar31/Weather-app-/"><strong>Explore the Project »</strong></a>
     <br />
